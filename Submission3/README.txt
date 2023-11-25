@@ -18,3 +18,5 @@ Shishir Kumar Das - 23366019
 Maymuna Rukaiya - 23266019
 Khairun Nisa - 23266001
 Mahdi Hossain - 20301194
+
+We also correctly have uploaded slide.PPT here.
